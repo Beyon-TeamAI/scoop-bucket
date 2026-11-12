@@ -1,19 +1,19 @@
 {
-    "version": "0.1.4",
+    "version": "0.1.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Beyon-TeamAI/madhoob-releases/releases/download/v0.1.4/madhoob_0.1.4_windows_amd64.zip",
+            "url": "https://github.com/Beyon-TeamAI/madhoob-releases/releases/download/v0.1.5/madhoob_0.1.5_windows_amd64.zip",
             "bin": [
                 "madhoob.exe"
             ],
-            "hash": "2e9b13b47b482bc63e5534e1475f55ea793ed9ede85fd24ecc61adebee4f312f"
+            "hash": "309390fb3ba3655b64bff8bf1532e7fe12212598603cd53bd3c7eaf27e49cdcb"
         },
         "arm64": {
-            "url": "https://github.com/Beyon-TeamAI/madhoob-releases/releases/download/v0.1.4/madhoob_0.1.4_windows_arm64.zip",
+            "url": "https://github.com/Beyon-TeamAI/madhoob-releases/releases/download/v0.1.5/madhoob_0.1.5_windows_arm64.zip",
             "bin": [
                 "madhoob.exe"
             ],
-            "hash": "0d299bfc41eb640313511b45f92a0ba830b983996811fc02fba7133314dd820a"
+            "hash": "bf10249a63b6f489b0fc806476a733f1295dd63694add0d4c243f3731cd6a351"
         }
     },
     "homepage": "https://github.com/Beyon-TeamAI/madhoob-releases",
